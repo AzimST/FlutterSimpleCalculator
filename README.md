@@ -1,6 +1,6 @@
 # calculate
 
-A new Flutter project.
+A new Flutter project. This is my first flutter application.
 
 ## Getting Started
 
